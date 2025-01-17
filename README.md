@@ -4,7 +4,7 @@
 ## AIM:
 To design a web application for an inteactive image gallery with minimum five images.
 
-## DESIGN STEPS:
+## DESIGN STEPS: 
 
 ### Step 1:
 Clone the github repository and create Django admin interface.
